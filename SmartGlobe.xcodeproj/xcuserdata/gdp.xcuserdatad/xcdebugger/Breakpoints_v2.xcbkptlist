@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Mesh/MeshHolder.hpp"
+            timestampString = "416894437.922928"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getBoundingVolume()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Mesh/AbstractGeometryMesh.cpp"
+            timestampString = "416894466.635476"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "AbstractGeometryMesh::getBoundingVolume()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Mesh/AbstractGeometryMesh.cpp"
+            timestampString = "416894482.77013"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "AbstractGeometryMesh::computeBoundingVolume()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Specific/SQDatabase.m"
+            timestampString = "416923695.208387"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-next"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Tile.cpp"
+            timestampString = "422369017.781074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "719"
+            endingLineNumber = "719"
+            landmarkName = "Tile::render(const G3MRenderContext* rc, const GLState&amp; parentState, std::list&lt;Tile*&gt;* toVisitInNextIteration, const Planet* planet, const Vector3D&amp; cameraNormalizedPosition, double cameraAngle2HorizonInRadians, const Frustum* cameraFrustumInModelCoordinates, TilesStatistics* tilesStatistics, const float verticalExaggeration, const LayerTilesRenderParameters* layerTilesRenderParameters, TileTexturizer* texturizer, const TilesRenderParameters* tilesRenderParameters, ITimer* lastSplitTimer, ElevationDataProvider* elevationDataProvider, const TileTessellator* tessellator, TileRasterizer* tileRasterizer, const LayerSet* layerSet, const Sector* renderedSector, bool isForcedFullRender, long long texturePriority, double texWidthSquared, double texHeightSquared, double nowInMS, const bool renderTileMeshes)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Specific/Derived/SQLiteStorage_iOS.mm"
+            timestampString = "416998571.397813"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "SQLiteStorage_iOS::rawSave(NSString* table, NSString* name, NSData* contents, const TimeInterval&amp; timeToExpires)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Specific/Derived/SQLiteStorage_iOS.mm"
+            timestampString = "416998571.397813"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "SQLiteStorage_iOS::rawSave(NSString* table, NSString* name, NSData* contents, const TimeInterval&amp; timeToExpires)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Specific/Derived/SQLiteStorage_iOS.mm"
+            timestampString = "416998571.397813"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "SQLiteStorage_iOS::rawSave(NSString* table, NSString* name, NSData* contents, const TimeInterval&amp; timeToExpires)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/AnimateHUDWidgetsTask.h"
+            timestampString = "421126777.14977"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "run(const G3MContext* context)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimateHUDWidgetsTask::run(G3MContext const*)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/AnimateHUDWidgetsTask.h"
+                  timestampString = "417155359.291605"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimateHUDWidgetsTask::run(G3MContext const*)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/AnimateHUDWidgetsTask.h"
+                  timestampString = "417155359.291878"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimateHUDWidgetsTask::run(G3MContext const*)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/AnimateHUDWidgetsTask.h"
+                  timestampString = "417155359.292235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Tile.cpp"
+            timestampString = "422369017.781074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "361"
+            endingLineNumber = "361"
+            landmarkName = "Tile::isVisible(const G3MRenderContext* rc, const Planet* planet, const Vector3D&amp; cameraNormalizedPosition, double cameraAngle2HorizonInRadians, const Frustum* cameraFrustumInModelCoordinates, ElevationDataProvider* elevationDataProvider, const Sector* renderedSector, const TileTessellator* tessellator, const LayerTilesRenderParameters* layerTilesRenderParameters, const TilesRenderParameters* tilesRenderParameters)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Tile.cpp"
+            timestampString = "422369017.781074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "362"
+            endingLineNumber = "362"
+            landmarkName = "Tile::isVisible(const G3MRenderContext* rc, const Planet* planet, const Vector3D&amp; cameraNormalizedPosition, double cameraAngle2HorizonInRadians, const Frustum* cameraFrustumInModelCoordinates, ElevationDataProvider* elevationDataProvider, const Sector* renderedSector, const TileTessellator* tessellator, const LayerTilesRenderParameters* layerTilesRenderParameters, const TilesRenderParameters* tilesRenderParameters)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Tile.cpp"
+            timestampString = "422369017.781074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "Tile::getBoundingVolume(const G3MRenderContext* rc, ElevationDataProvider* elevationDataProvider, const TileTessellator* tessellator, const LayerTilesRenderParameters* layerTilesRenderParameters, const TilesRenderParameters* tilesRenderParameters)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Mesh/AbstractGeometryMesh.cpp"
+            timestampString = "417254240.607336"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "AbstractGeometryMesh::computeBoundingVolume()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Tile.cpp"
+            timestampString = "422369017.781074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "Tile::getBoundingVolume(const G3MRenderContext* rc, ElevationDataProvider* elevationDataProvider, const TileTessellator* tessellator, const LayerTilesRenderParameters* layerTilesRenderParameters, const TilesRenderParameters* tilesRenderParameters)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Tile.cpp"
+            timestampString = "422369017.781074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "Tile::getTessellatorMesh(const G3MRenderContext* rc, ElevationDataProvider* elevationDataProvider, const TileTessellator* tessellator, const LayerTilesRenderParameters* layerTilesRenderParameters, const TilesRenderParameters* tilesRenderParameters)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/MyLocationButton.m"
+            timestampString = "419825274.917203"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "-locationManager:didUpdateHeading:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/MyLocationButton.m"
+            timestampString = "419825274.917203"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "-locationManager:didUpdateToLocation:fromLocation:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Layers/LayerSet.cpp"
+            timestampString = "417864862.90044"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "LayerSet::layersChanged()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Mark.cpp"
+            timestampString = "418100338.999978"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "528"
+            endingLineNumber = "528"
+            landmarkName = "Mark::render(const G3MRenderContext* rc, const Vector3D&amp; cameraPosition, double cameraHeight, const GLState* parentGLState, const Planet* planet, GL* gl)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Mesh/TextureMapping.cpp"
+            timestampString = "418119470.225409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "SimpleTextureMapping::modifyGLState(GLState&amp; state)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleTextureMapping::modifyGLState(GLState&amp;) const"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Mesh/TextureMapping.cpp"
+                  timestampString = "418123079.884901"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleTextureMapping::modifyGLState(GLState&amp;) const"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Mesh/TextureMapping.cpp"
+                  timestampString = "418123079.885497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "802">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleTextureMapping::modifyGLState(GLState&amp;) const"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Mesh/TextureMapping.cpp"
+                  timestampString = "418123079.886181"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "914">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Mesh/TexturedMesh.cpp"
+            timestampString = "418122081.210879"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "TexturedMesh::rawRender(const G3MRenderContext* rc, const GLState* parentState)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/include/G3MiOSSDK/GPUVariableValueSet.hpp"
+            timestampString = "418123016.010762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "addUniformValue(GPUUniformKey key, GPUUniformValue* v, bool mustRetain)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Mark.cpp"
+            timestampString = "419821545.430429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "475"
+            endingLineNumber = "475"
+            landmarkName = "Mark::render(const G3MRenderContext* rc, const Vector3D&amp; cameraPosition, double cameraHeight, const GLState* parentGLState, const Planet* planet, GL* gl)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/Mark.cpp"
+            timestampString = "419824515.470661"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "510"
+            endingLineNumber = "510"
+            landmarkName = "Mark::render(const G3MRenderContext* rc, const Vector3D&amp; cameraPosition, double cameraHeight, const GLState* parentGLState, const Planet* planet, GL* gl)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/TQMultistageTableView/TQMultistageTableView.m"
+            timestampString = "421051234.315419"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "-tableViewExpandViewTouchUpInside:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/AnimateHUDWidgetsTask.h"
+            timestampString = "421764948.396453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "getstring(const std::string&amp; s,int num)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimateHUDWidgetsTask::getstring(std::string const&amp;, int)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/AnimateHUDWidgetsTask.h"
+                  timestampString = "421764948.431894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimateHUDWidgetsTask::getstring(std::string const&amp;, int)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/AnimateHUDWidgetsTask.h"
+                  timestampString = "421764948.432285"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimateHUDWidgetsTask::getstring(std::string const&amp;, int)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/AnimateHUDWidgetsTask.h"
+                  timestampString = "421764948.432556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/SSCheckBoxView/SSCheckBoxView.m"
+            timestampString = "421765340.601404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "-checkBoxImageForStyle:checked:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/ZWMSBillElevationDataProvider.cpp"
+            timestampString = "422366823.831266"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "ZWMSBillElevationDataProvider::getElevationData(int width,int height,double elevation,const Sector&amp; sector)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZWMSBillElevationDataProvider::getElevationData(int, int, double)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Basic/ZWMSBillElevationDataProvider.cpp"
+                  timestampString = "422334059.51208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZWMSBillElevationDataProvider::getElevationData(int, int, double)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Basic/ZWMSBillElevationDataProvider.cpp"
+                  timestampString = "422334059.512371"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZWMSBillElevationDataProvider::getElevationData(int, int, double)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Basic/ZWMSBillElevationDataProvider.cpp"
+                  timestampString = "422334059.512628"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/PlanetTileTessellator.cpp"
+            timestampString = "422334797.292726"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "PlanetTileTessellator::createSurface(const Sector&amp; tileSector, const Sector&amp; meshSector, const Vector2I&amp; meshResolution, const ElevationData* elevationData, float verticalExaggeration, bool mercator, FloatBufferBuilderFromGeodetic* vertices, ShortBufferBuilder&amp; indices, FloatBufferBuilderFromCartesian2D&amp; textCoords, TileTessellatorMeshData&amp; data)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/ZWMSBillElevationDataProvider.cpp"
+            timestampString = "422367050.509544"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "onDownload(const URL&amp; url, IByteBuffer* buffer, bool expired)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/ZWMSBillElevationDataProvider.cpp"
+            timestampString = "422367830.158968"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "onDownload(const URL&amp; url, IByteBuffer* buffer, bool expired)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/ZWMSBillElevationDataProvider.cpp"
+            timestampString = "422367833.292655"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "onDownload(const URL&amp; url, IByteBuffer* buffer, bool expired)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/G3MWidget.cpp"
+            timestampString = "423453127.578706"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "440"
+            endingLineNumber = "440"
+            landmarkName = "G3MWidget::render(int width, int height)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/FrameTasksExecutor.cpp"
+            timestampString = "423453981.890016"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "FrameTasksExecutor::doPreRenderCycle(const G3MRenderContext* rc)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Specific/Derived/Downloader_iOS.mm"
+            timestampString = "423631052.426418"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "Downloader_iOS::requestImage(const URL &amp;url,IImage* cachedImage,IImageDownloadListener* listener,bool deleteListener)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+            timestampString = "423455492.721472"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "352"
+            endingLineNumber = "352"
+            landmarkName = "CachedDownloader::requestImage(const URL&amp; url, long long priority, const TimeInterval&amp; timeToCache, bool readExpired, IImageDownloadListener* listener, bool deleteListener)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/MultiLayerTileTexturizer.cpp"
+            timestampString = "423631510.187378"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "724"
+            endingLineNumber = "724"
+            landmarkName = "TextureUploader::imageCreated(const IImage* image)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/G3MWidget.cpp"
+            timestampString = "423473089.408962"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "424"
+            endingLineNumber = "424"
+            landmarkName = "G3MWidget::calculateRendererState()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/G3MWidget.cpp"
+            timestampString = "423473091.193241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
+            landmarkName = "G3MWidget::calculateRendererState()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/G3MWidget.cpp"
+            timestampString = "423473093.465258"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "405"
+            endingLineNumber = "405"
+            landmarkName = "G3MWidget::calculateRendererState()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/G3MWidget.cpp"
+            timestampString = "423473097.313425"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "G3MWidget::calculateRendererState()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/MultiLayerTileTexturizer.cpp"
+            timestampString = "423628590.854314"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "585"
+            endingLineNumber = "585"
+            landmarkName = "~TextureUploader()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/ViewController.mm"
+            timestampString = "427288047.717409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "917"
+            endingLineNumber = "917"
+            landmarkName = "-LayerBarButtonItemAction:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController LayerBarButtonItemAction:]"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/ViewController.mm"
+                  timestampString = "427000228.715513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "826"
+                  endingLineNumber = "826"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController LayerBarButtonItemAction:]"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/ViewController.mm"
+                  timestampString = "427000228.715893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "826"
+                  endingLineNumber = "826"
+                  offsetFromSymbolStart = "830">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController LayerBarButtonItemAction:]"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/ViewController.mm"
+                  timestampString = "427000228.716147"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "826"
+                  endingLineNumber = "826"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/ViewController.mm"
+            timestampString = "427288047.717409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "862"
+            endingLineNumber = "862"
+            landmarkName = "-changeLayers:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Basic/MultiLayerTileTexturizer.cpp"
+            timestampString = "427011207.35187"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
+            landmarkName = "start()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TileTextureBuilder::start()"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Basic/MultiLayerTileTexturizer.cpp"
+                  timestampString = "427011289.170015"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "339"
+                  endingLineNumber = "339"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TileTextureBuilder::start()"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Basic/MultiLayerTileTexturizer.cpp"
+                  timestampString = "427011289.170255"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "339"
+                  endingLineNumber = "339"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+            timestampString = "427011323.058738"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "344"
+            endingLineNumber = "344"
+            landmarkName = "CachedDownloader::requestImage(const URL&amp; url, long long priority, const TimeInterval&amp; timeToCache, bool readExpired, IImageDownloadListener* listener, bool deleteListener)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CachedDownloader::requestImage(URL const&amp;, long long, TimeInterval const&amp;, bool, IImageDownloadListener*, bool)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+                  timestampString = "427011323.115584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CachedDownloader::requestImage(URL const&amp;, long long, TimeInterval const&amp;, bool, IImageDownloadListener*, bool)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+                  timestampString = "427011323.115913"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "530">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CachedDownloader::requestImage(URL const&amp;, long long, TimeInterval const&amp;, bool, IImageDownloadListener*, bool)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+                  timestampString = "427011323.116159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+            timestampString = "427011427.083341"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "CachedDownloader::requestBuffer(const URL&amp; url, long long priority, const TimeInterval&amp; timeToCache, bool readExpired, IBufferDownloadListener* listener, bool deleteListener)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CachedDownloader::requestBuffer(URL const&amp;, long long, TimeInterval const&amp;, bool, IBufferDownloadListener*, bool)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+                  timestampString = "427011427.11946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CachedDownloader::requestBuffer(URL const&amp;, long long, TimeInterval const&amp;, bool, IBufferDownloadListener*, bool)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+                  timestampString = "427011427.119791"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CachedDownloader::requestBuffer(URL const&amp;, long long, TimeInterval const&amp;, bool, IBufferDownloadListener*, bool)"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/G3MiOSSDK/Commons/Interfaces/CachedDownloader.cpp"
+                  timestampString = "427011427.1204"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/ViewController.mm"
+            timestampString = "427288047.717409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "438"
+            endingLineNumber = "438"
+            landmarkName = "-createLayerSet"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartGlobe/ViewController.mm"
+            timestampString = "427288047.717409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "358"
+            endingLineNumber = "358"
+            landmarkName = "-createLayer:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController createLayer:]"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/ViewController.mm"
+                  timestampString = "427288229.031979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "358"
+                  endingLineNumber = "358"
+                  offsetFromSymbolStart = "766">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController createLayer:]"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/ViewController.mm"
+                  timestampString = "427288229.032235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "358"
+                  endingLineNumber = "358"
+                  offsetFromSymbolStart = "2044">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController createLayer:]"
+                  moduleName = "SmartGlobe"
+                  urlString = "file://localhost/Users/gdp/Desktop/New%20SmartGlobe/SmartGlobe/SmartGlobe/ViewController.mm"
+                  timestampString = "427288229.032513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "358"
+                  endingLineNumber = "358"
+                  offsetFromSymbolStart = "2186">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

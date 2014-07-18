@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4514" systemVersion="12E55" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" initialViewController="ZFa-CI-oat">
+    <dependencies>
+        <deployment defaultVersion="1296" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3747"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="uqK-p5-qJ2">
+            <objects>
+                <viewController id="ZFa-CI-oat" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="rI8-fd-3Gl">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" id="K2y-Cs-aR6" customClass="G3MWidget_iOS">
+                                <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                            </view>
+                            <navigationBar alpha="0.5" contentMode="scaleToFill" barStyle="black" id="BaX-3U-SYU">
+                                <rect key="frame" x="0.0" y="0.0" width="768" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                <items>
+                                    <navigationItem id="K7f-bl-mbj">
+                                        <nil key="title"/>
+                                        <barButtonItem key="leftBarButtonItem" image="indicators@2x.png" id="49Q-rn-f7c">
+                                            <connections>
+                                                <action selector="LayerBarButtonItemAction:" destination="JgQ-ui-dtp" id="cTg-4r-d1S"/>
+                                            </connections>
+                                        </barButtonItem>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="il0-ae-oXv" userLabel="MyLocation" customClass="MyLocationButton">
+                                <rect key="frame" x="315" y="4" width="36" height="36"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="TF4-q2-azJ" userLabel="ResetNorth">
+                                <rect key="frame" x="250" y="4" width="36" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" image="reset-to-north.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Uqq-bT-gGi" userLabel="ResetPlanet">
+                                <rect key="frame" x="185" y="4" width="36" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" image="globesIcon.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <toolbarItems/>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="g3mWidget" destination="K2y-Cs-aR6" id="PiK-7v-Wgm"/>
+                        <outlet property="layersBarButtonItem" destination="49Q-rn-f7c" id="MrG-am-s4e"/>
+                        <outlet property="myLocationButton" destination="il0-ae-oXv" id="UbC-wL-KFx"/>
+                        <outlet property="navigationBar" destination="BaX-3U-SYU" id="3Du-Ta-Mtz"/>
+                        <outlet property="northButton" destination="TF4-q2-azJ" id="Csf-Wu-hkw"/>
+                        <outlet property="resetButton" destination="Uqq-bT-gGi" id="C0b-e3-F7j"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JgQ-ui-dtp" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-714" y="482"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="globesIcon.png" width="30" height="30"/>
+        <image name="indicators@2x.png" width="16" height="16"/>
+        <image name="reset-to-north.png" width="24" height="24"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar" statusBarStyle="lightContent"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>

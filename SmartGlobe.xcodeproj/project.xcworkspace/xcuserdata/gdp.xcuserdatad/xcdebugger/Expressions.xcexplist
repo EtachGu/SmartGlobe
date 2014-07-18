@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DecimatedSubviewElevationData::DecimatedSubviewElevationData(ElevationData const*, Sector const&amp;, Vector2I const&amp;):DecimatedSubviewElevationData.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Tile::createElevationDataSubviewFromAncestor(Tile*) const:Tile.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
