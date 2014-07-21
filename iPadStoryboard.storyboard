@@ -36,7 +36,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="il0-ae-oXv" userLabel="MyLocation" customClass="MyLocationButton">
                                 <rect key="frame" x="315" y="4" width="36" height="36"/>
                                 <autoresizingMask key="autoresizingMask"/>
-                                <state key="normal" title="Button">
+                                <state key="normal">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
